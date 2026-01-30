@@ -16,7 +16,7 @@ This analysis was conducted within the **Galaxy Project** ecosystem to ensure fu
 ## 📂 Repository Contents
 * **`Final_Project_Report.pdf`**: Comprehensive research report including methodology, results, and discussion.
 * **`Transcriptomics_Workflow.ga`**: The complete Galaxy workflow file. (Import this into Galaxy to reproduce the entire pipeline).
-* **`Supplementary_Data_1_DEGs.csv`**: The full list of 972 differentially expressed genes with statistical values.
+* **`Supplementary_Data_1_DEGs.xlsx`**: The full list of 972 differentially expressed genes with statistical values.
 
 ## 📊 Key Findings
 * **Primary Basal Markers:** Identified significant upregulation of $KRT16$, $PTCHD1$, and $FOLH1$.
